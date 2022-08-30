@@ -1,3 +1,10 @@
+//Class: TwoRockets
+//@author Eric Yanez
+//@version 1.0
+//Course: ITEC 2140 Fall 2022
+//Written: August 27, 2022
+
+
 public class TwoRockets{
     public static void main(String[] args) {
         top_bottom();
